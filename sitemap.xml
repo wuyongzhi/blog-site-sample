@@ -3,99 +3,99 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/new/</loc>
+    <loc>/blog-sample-website/new/</loc>
     <lastmod>2018-08-23T15:24:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/good-good-study-day-day-up/</loc>
+    <loc>/blog-sample-website/post/good-good-study-day-day-up/</loc>
     <lastmod>2018-08-23T14:05:39+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/thanks/</loc>
+    <loc>/blog-sample-website/post/thanks/</loc>
     <lastmod>2018-08-23T14:05:22+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/learning/</loc>
+    <loc>/blog-sample-website/post/learning/</loc>
     <lastmod>2018-08-23T14:05:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/why-python/</loc>
+    <loc>/blog-sample-website/post/why-python/</loc>
     <lastmod>2018-08-23T14:05:12+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/flask/</loc>
+    <loc>/blog-sample-website/post/flask/</loc>
     <lastmod>2018-08-23T14:04:57+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/web-site-development/</loc>
+    <loc>/blog-sample-website/post/web-site-development/</loc>
     <lastmod>2018-08-23T14:04:54+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/login/</loc>
+    <loc>/blog-sample-website/login/</loc>
     <lastmod>2018-08-23T14:04:26+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/hello/</loc>
+    <loc>/blog-sample-website/post/hello/</loc>
     <lastmod>2018-08-23T13:38:54+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/blog-sample-website/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/archives/2018/</loc>
+    <loc>/blog-sample-website/archives/2018/</loc>
     <lastmod>2018-08-23T14:05:39+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/archives/</loc>
+    <loc>/blog-sample-website/archives/</loc>
     <lastmod>2018-08-23T14:05:39+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/blog-sample-website/post/</loc>
     <lastmod>2018-08-23T14:05:39+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/python/</loc>
+    <loc>/blog-sample-website/tags/python/</loc>
     <lastmod>2018-08-23T14:05:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/blog-sample-website/tags/</loc>
     <lastmod>2018-08-23T14:05:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/web/</loc>
+    <loc>/blog-sample-website/tags/web/</loc>
     <lastmod>2018-08-23T14:04:54+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>/blog-sample-website/tags/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2018-08-23T14:05:17+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/blog-sample-website/</loc>
     <lastmod>2018-08-23T15:24:56+08:00</lastmod>
     <priority>0</priority>
   </url>
